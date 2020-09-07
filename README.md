@@ -31,5 +31,4 @@ step1: npm install -g @compodoc/compodoc
 step2 : compodoc -p /tsconfig.app.json -s
 
 #for Input data :
-$%$https://corona.lmao.ninja/docs/#$%$
-$%$https://disease.sh/v3/covid-19/nyt/states?lastdays=30$%$
+https://disease.sh/v3/covid-19/nyt/states?lastdays=30
